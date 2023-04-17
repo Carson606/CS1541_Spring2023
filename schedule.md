@@ -122,10 +122,6 @@ CS 1541 Computer Architecture
 
 * Homework 4 due on GradeScope
 
-* Midterm 2 on GradeScope: TBD
-  * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
-  * Open book but individual work
-  
 ## WEEK 16 (Week of 24 APR)
 
 * Midterm 2 on GradeScope: Monday (Apr. 24) 8:00 AM - Wednesday (Apr. 26) 11:59 PM
